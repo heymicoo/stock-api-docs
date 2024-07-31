@@ -198,7 +198,7 @@ Pass the following URL parameters with the GET request.
         </td>
     </tr>
     <tr>
-        <td>search_parameters[serie_id]
+        <td>search_parameters[series_id]
         </td>
         <td>Search for all assets grouped in the same series as this media ID. Integer.
         </td>
